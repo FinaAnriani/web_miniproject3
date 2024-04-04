@@ -10,3 +10,5 @@
 1. Admin (manage website data)
 2. Perusahaan (company that make job vacancies)
 3. Pelamar (job seeker)
+-----------------------------------------------
+Link: work-opportunities.kesug.com

@@ -1,3 +1,7 @@
+# Nama : Fina Anriani
+# NIM : 2209116051
+# Kelas : Sistem Informasi A 2022
+
 # Work Opportunities
 
 3 Role User:

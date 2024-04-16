@@ -11,4 +11,16 @@
 2. Perusahaan (company that make job vacancies)
 3. Pelamar (job seeker)
 -----------------------------------------------
-Link hosting: work-opportunities.kesug.com
+Alamat Website : work-opportunities.kesug.com
+
+Role Admin 
+email : admin@mimpy.id
+password : admin
+
+Role Perusahaan 
+email : adijaya@gmail.com
+password : 1234567890
+
+Role Pelamar
+email : finaanriani15@gmail.com
+password : 1234567890

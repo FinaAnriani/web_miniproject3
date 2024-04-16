@@ -11,4 +11,4 @@
 2. Perusahaan (company that make job vacancies)
 3. Pelamar (job seeker)
 -----------------------------------------------
-Link: work-opportunities.kesug.com
+Link hosting: work-opportunities.kesug.com

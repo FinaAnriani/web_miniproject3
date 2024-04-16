@@ -1,2 +1,11 @@
-# Admin
-admin@mimpy.id | admin
+Role Admin 
+email : admin@mimpy.id
+password : admin
+
+Role Perusahaan 
+email : adijaya@gmail.com
+password : 1234567890
+
+Role Pelamar
+email : finaanriani15@gmail.com
+password : 1234567890

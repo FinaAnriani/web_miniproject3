@@ -14,7 +14,9 @@
 Alamat Website : work-opportunities.kesug.com
 
 Role Admin 
+
 email : admin@mimpy.id
+
 password : admin
 
 Role Perusahaan 

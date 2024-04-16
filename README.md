@@ -13,15 +13,22 @@
 -----------------------------------------------
 Alamat Website : work-opportunities.kesug.com
 
-1. Role Admin 
+1. Role Admin
+
 email : admin@mimpy.id
 
 password : admin
 
-Role Perusahaan 
+
+2. Role Perusahaan 
+
 email : adijaya@gmail.com
+
 password : 1234567890
 
-Role Pelamar
+
+3. Role Pelamar
+
 email : finaanriani15@gmail.com
+
 password : 1234567890
